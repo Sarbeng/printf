@@ -54,7 +54,7 @@ This is the function that finds the match between the char ("c","s","d","i", "%"
 
 ## HOW TO DOWNLOAD
 
-you can go to the clone or downloaded green botton and copy the link that it will provided
+you can go to the clone or download button and copy the link that it will provided
 
 ![Clone Repository](https://i.imgur.com/5PrtuPG.png)
 
