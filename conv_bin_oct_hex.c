@@ -2,9 +2,11 @@
 /**
  * binary_oct_hex_convert - convert a number into binary, octal or hexadecimal
  * @numero: Its the number given to convert
- * @base: is the base which the number will be divided with; binary 2; octal 8; hexadecima 16.
- *Return: The number of characteres printed
- */	
+ * @base: is the base which the number will be divided with;
+ * @flag: this is what we are checking for, or the edge case
+ * binary 2 octal 8 hexadecima 16.
+ * Return: The number of characteres printed
+ */
 int binary_oct_hex_convert(unsigned int numero, int base, int flag)
 {
 	char hexUpcase[] = "0123456789ABCDEF";
@@ -29,5 +31,5 @@ int binary_oct_hex_convert(unsigned int numero, int base, int flag)
 	{
 		_putchar(array[j]);
 	}
-	return(2020 - i);
+	return (2020 - i);
 }
