@@ -2,13 +2,14 @@
 /**
  * get_match_func - match format with function format
  * @format: pointer to format string
- * @list: the full list of argumnets for iteration
+ * @list: the full list of arguments for iteration
+ * @st_format: the format the string is taking
  * Return: number of characters being printed
  */
 int get_match_func(const char *format, va_list list, st_fmt st_format[])
 {
 	int count = 0, i = 0;
-	int j; 
+	int j;
 	int k = 0, num = 0;
 
 	for (i = 0; format && format[i] != 0; i++)
@@ -47,6 +48,4 @@ int get_match_func(const char *format, va_list list, st_fmt st_format[])
 	if (format == NULL)
 		return (-1);
 	return (count);
-
-
 }
