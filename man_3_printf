@@ -142,4 +142,4 @@ make_message(const char *format, ...)
 .SH BUGS
 No known bugs.
 .SH AUTHOR
-Kwadwo Sarbeng-Baafi and Nana Ekow Arhinful
+Kwadwo Sarbeng-Baafi and Nana Arhinful
