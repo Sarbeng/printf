@@ -73,4 +73,4 @@ Once you do that you can use this main template and fallow the instructions for 
 
 ## AUTHORS
 
-[Kwadwo Sarbeng-Baafi](https://github.com/sarbeng) and [Nana Ekow Arhinful](https://github.com/sarbeng)
+[Kwadwo Sarbeng-Baafi](https://github.com/sarbeng) and [Nana Ekow Arhinful](https://github.com/pompous-coder)
