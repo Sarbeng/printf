@@ -1,12 +1,9 @@
 # printf
-Writing our own printf function.
-
-## Synopsis
-This is a simple implementation of printf function that formats and prints data
+In this project we are going to implement our version of the printf() function
+in the c programming language.
 
 ## Description
-The _printf() function produces output according to a format which is described
-below. This function write its output to the stdout, the standard output stream. Returns the count of printed characters when the function is successful and -1 when the function fails.
+The _printf() function produces output according to a format and writes to the stdout, the standard output stream. Returns the count of printed characters when the function is successful and -1 when the function fails.
 
 The available convertion specifiers are:
 + %c: Prints a single character.
