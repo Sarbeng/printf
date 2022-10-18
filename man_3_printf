@@ -29,7 +29,7 @@ string that specifies how subsequent arguments (or arguments accessed via  the  
 are converted for output.
 
 .SS Field width
-An optional decimal digit string (with nonzero first digit) specifying
+An optional decimal digit string (with nonzero first digit) that specifies
 a minimum field width.
 If the converted value has fewer characters
 than the field width, it will be padded with spaces on the left
